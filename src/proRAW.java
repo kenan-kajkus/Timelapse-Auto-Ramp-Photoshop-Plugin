@@ -382,8 +382,4 @@ public class proRAW {
 		}
 		return null;
 	}
-
-	public static void main(String[] args) {
-		new proRAW();
-	}
 }
